@@ -1,0 +1,951 @@
+{
+  "description" : "",
+  "name" : "criteo",
+  "rules" : [
+  	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteo-publisher-marketplace.fr"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "hook-marketing.net"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "incentivescience.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "comparaisondrive.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteodirect.fr"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "codeofduty.fr"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteoemail.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "hookcommerce.net"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "teotelecom.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteo.at"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteo-direct.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "critoe.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "ad-x.org"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "hookmerchant.net"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "bam.beer"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteo-publisher-marketplace.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteopublishermarketplace.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "hookcommerce.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "incentivesnetwork.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "activehook.net"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "hooklogic.net"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "hooksystems.net"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteo-codeofduty.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteo-codeofduty.fr"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteo.cn"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "demo-criteo.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "coursesdrives.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "hlserve.net"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "hookadvertising.net"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "behavioural-banner.fr"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "hlserve.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "mycriteo.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "hooktechnologies.net"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "nellycourses.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "consocourses.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "critteo.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "incentivenetwork.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "incentivescience.net"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "hookloyalty.net"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteo-pm.fr"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "shophook.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteo.pt"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "travelhook.net"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteo.co.at"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteo.us"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteodirect.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteopublishermarketplace.net"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "millerlogic.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "hookmarketing.net"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "shophook.net"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "cryteo.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "behaviouralbanner.fr"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "activehook.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "behavioural-banner.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteo-pm.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteo-pm.net"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteolabs.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "hook-marketing.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "hooklogicparty.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteo.tv"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "hooknetwork.net"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "monsieurdrive.fr"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "behavioralbanner.fr"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "hooknetwork.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteo-direct.fr"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "telehook.net"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteo.gift"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteo.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "aridtestlahjak.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteo.fr"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteoresearch.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "lessuggestionsdenelly.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "auctionhook.net"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "merchantadmanager.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteopm.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "drivecomparateur.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "les-suggestions-de-nelly.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "behavioralbanner.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "drivesmoinscher.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteo.hosting"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "behaviouralbanner.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "critoo.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "kryteo.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "tedemis.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteonlts.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteopm.fr"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "code-of-duty.fr"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "recommenders.fr"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteopm.net"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "freetoaster.net"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "merchantadmanager.net"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "mycriteo.fr"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteo-publisher-marketplace.net"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "kriteo.net"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "monsieurdrive.net"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteo.beer"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "kriteo.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteo.email"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "behavioral-banner.fr"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "behavioral-banner.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteo.media"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteo.pro"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "wwwcriteo.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteodirect.pro"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "hookmedia.net"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteo.com.pt"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "ctoid.net"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "hookmerchant.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "labscriteo.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteolabs.fr"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "criteo.net"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "monsieurdrive.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "optimalcpm.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "hooknetworks.net"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "hooklogic.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "dtcbarre.com"
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "hookloyalty.com"
+
+    },
+	{
+      "action" : "deny",
+      "creationDate" : 1586035898.483443,
+      "modificationDate" : 1586036031.3257551,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "hooksystems.com"
+    }
+	]
+}
