@@ -6,7 +6,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-sphotos-g-a.akamaihd.net"
     },
@@ -14,7 +13,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-video-a-a.akamaihd.net"
     },
@@ -22,7 +20,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-video-d-a.akamaihd.net"
     },
@@ -30,7 +27,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-sphotos-a.akamaihd.net"
     },
@@ -38,7 +34,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbstatic-a.akamaihd.net"
     },
@@ -46,7 +41,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-video-k-a.akamaihd.net"
     },
@@ -54,7 +48,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-sphotos-c-a.akamaihd.net"
     },
@@ -62,7 +55,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-video-l-a.akamaihd.net"
     },
@@ -70,7 +62,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-sphotos-e-a.akamaihd.net"
     },
@@ -78,7 +69,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-video-h-a.akamaihd.net"
     },
@@ -86,7 +76,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-video-c-a.akamaihd.net"
     },
@@ -94,7 +83,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-video-n-a.akamaihd.net"
     },
@@ -102,7 +90,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-video-b-a.akamaihd.net"
     },
@@ -110,7 +97,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-creative-a.akamaihd.net"
     },
@@ -118,7 +104,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-video-m-a.akamaihd.net"
     },
@@ -126,7 +111,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-video-j-a.akamaihd.net"
     },
@@ -134,7 +118,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-video-g-a.akamaihd.net"
     },
@@ -142,7 +125,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-video-e-a.akamaihd.net"
     },
@@ -150,7 +132,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-sphotos-a-a.akamaihd.net"
     },
@@ -158,7 +139,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-video-i-a.akamaihd.net"
     },
@@ -166,7 +146,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-photos-a.akamaihd.net"
     },
@@ -174,7 +153,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-sphotos-h-a.akamaihd.net"
     },
@@ -182,7 +160,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-sphotos-d-a.akamaihd.net"
     },
@@ -190,7 +167,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-photos-e-a.akamaihd.net"
     },
@@ -198,7 +174,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-sphotos-b-a.akamaihd.net"
     },
@@ -206,7 +181,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-video-p-a.akamaihd.net"
     },
@@ -214,7 +188,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-sphotos-f-a.akamaihd.net"
     },
@@ -222,7 +195,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-video-o-a.akamaihd.net"
     },
@@ -230,7 +202,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-video-f-a.akamaihd.net"
     },
@@ -238,7 +209,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbexternal-a.akamaihd.net"
     },
@@ -246,7 +216,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-vthumb-a.akamaihd.net"
     },
@@ -254,7 +223,6 @@
       "action" : "deny",
       "creationDate" : 1586035898.483443,
       "modificationDate" : 1586036031.3257551,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "112.2o7.net"
     },
@@ -262,7 +230,6 @@
       "action" : "deny",
       "creationDate" : 1585956852.7034869,
       "modificationDate" : 1585956852.7034869,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-*.akamaihd.net"
     },
@@ -270,7 +237,6 @@
       "action" : "deny",
       "creationDate" : 1585955774.9353461,
       "modificationDate" : 1585955774.9353461,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn-profile-a.akamaihd.net"
     },
@@ -278,7 +244,6 @@
       "action" : "deny",
       "creationDate" : 1585956885.368685,
       "modificationDate" : 1585956885.368685,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbexternal-*.akamaihd.net"
     },
@@ -286,7 +251,6 @@
       "action" : "deny",
       "creationDate" : 1585956809.122417,
       "modificationDate" : 1585956809.122417,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbstatic-*.akamaihd.net"
     },
@@ -294,7 +258,6 @@
       "action" : "deny",
       "creationDate" : 1585955849.499208,
       "modificationDate" : 1585955849.499208,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "instagramstatic-a.akamaihd.net"
     },
@@ -302,7 +265,6 @@
       "action" : "deny",
       "creationDate" : 1585956657.5693359,
       "modificationDate" : 1585956657.5693359,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "addtoany.com"
     },
@@ -310,7 +272,6 @@
       "action" : "deny",
       "creationDate" : 1586035904.622292,
       "modificationDate" : 1586036042.856144,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "adentifi.com"
     },
@@ -318,7 +279,6 @@
       "action" : "deny",
       "creationDate" : 1586034936.599941,
       "modificationDate" : 1586036050.6503601,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "adnxs.com"
     },
@@ -326,7 +286,6 @@
       "action" : "deny",
       "creationDate" : 1585921609.7064428,
       "modificationDate" : 1585955334.5178809,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "adsrvr.org"
     },
@@ -334,7 +293,6 @@
       "action" : "deny",
       "creationDate" : 1585955741.8025999,
       "modificationDate" : 1585955741.8025999,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "appspot.com"
     },
@@ -342,7 +300,6 @@
       "action" : "deny",
       "creationDate" : 1585957113.225884,
       "modificationDate" : 1585957113.225884,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "atdmt.com"
     },
@@ -350,7 +307,6 @@
       "action" : "deny",
       "creationDate" : 1586035902.3758159,
       "modificationDate" : 1586036060.137244,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "bttrack.com"
     },
@@ -358,7 +314,6 @@
       "action" : "deny",
       "creationDate" : 1586035847.057081,
       "modificationDate" : 1586036063.8535371,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "casalemedia.com"
     },
@@ -366,7 +321,6 @@
       "action" : "deny",
       "creationDate" : 1585955870.0687408,
       "modificationDate" : 1585955870.0687408,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "cdninstagram.com"
     },
@@ -374,7 +328,6 @@
       "action" : "deny",
       "creationDate" : 1586035485.2403731,
       "modificationDate" : 1586036067.3870749,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "clicktale.net"
     },
@@ -382,7 +335,6 @@
       "action" : "deny",
       "creationDate" : 1586035082.2394581,
       "modificationDate" : 1586036079.7513421,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "commander1.com"
     },
@@ -390,7 +342,6 @@
       "action" : "deny",
       "creationDate" : 1585921701.0704541,
       "modificationDate" : 1585955278.6528931,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "doubleclick.net"
     },
@@ -398,7 +349,6 @@
       "action" : "deny",
       "creationDate" : 1585955557.0059371,
       "modificationDate" : 1585955557.0059371,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "edgekey.net"
     },
@@ -406,7 +356,6 @@
       "action" : "deny",
       "creationDate" : 1585955578.821811,
       "modificationDate" : 1585955578.821811,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "edgesuite.net"
     },
@@ -414,7 +363,6 @@
       "action" : "deny",
       "creationDate" : 1585956723.0729132,
       "modificationDate" : 1585956723.0729132,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "energized.pro"
     },
@@ -422,7 +370,6 @@
       "action" : "deny",
       "creationDate" : 1585921721.2884901,
       "modificationDate" : 1585955293.9345441,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "facebook.com"
     },
@@ -430,7 +377,6 @@
       "action" : "deny",
       "creationDate" : 1585956219.678647,
       "modificationDate" : 1585956219.678647,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "facebook.de"
     },
@@ -438,7 +384,6 @@
       "action" : "deny",
       "creationDate" : 1585956234.728857,
       "modificationDate" : 1585956234.728857,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "facebook.fr"
     },
@@ -446,7 +391,6 @@
       "action" : "deny",
       "creationDate" : 1585921722.075959,
       "modificationDate" : 1585955304.9514771,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "facebook.net"
     },
@@ -454,7 +398,6 @@
       "action" : "deny",
       "creationDate" : 1585955811.9519811,
       "modificationDate" : 1585955811.9519811,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fb.com"
     },
@@ -462,7 +405,6 @@
       "action" : "deny",
       "creationDate" : 1585955757.621372,
       "modificationDate" : 1585955757.621372,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fb.me"
     },
@@ -470,7 +412,6 @@
       "action" : "deny",
       "creationDate" : 1585955500.548095,
       "modificationDate" : 1585955500.548095,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn.com"
     },
@@ -478,7 +419,6 @@
       "action" : "deny",
       "creationDate" : 1585921708.3931231,
       "modificationDate" : 1585955236.942225,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbcdn.net"
     },
@@ -486,7 +426,6 @@
       "action" : "deny",
       "creationDate" : 1585955443.3949161,
       "modificationDate" : 1585955443.3949161,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fbsbx.com"
     },
@@ -494,7 +433,6 @@
       "action" : "deny",
       "creationDate" : 1585955990.8797679,
       "modificationDate" : 1585955990.8797679,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "fburl.com"
     },
@@ -502,7 +440,6 @@
       "action" : "deny",
       "creationDate" : 1586035878.65202,
       "modificationDate" : 1586036079.753448,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "flashtalking.com"
     },
@@ -510,7 +447,6 @@
       "action" : "deny",
       "creationDate" : 1585956400.575161,
       "modificationDate" : 1585956400.575161,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "freebasics.com"
     },
@@ -518,7 +454,6 @@
       "action" : "deny",
       "creationDate" : 1585956641.8608661,
       "modificationDate" : 1585956641.8608661,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "hootsuite.com"
     },
@@ -526,7 +461,6 @@
       "action" : "deny",
       "creationDate" : 1585956972.4627819,
       "modificationDate" : 1585956972.4627819,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "i.org"
     },
@@ -534,7 +468,6 @@
       "action" : "deny",
       "creationDate" : 1586035153.093941,
       "modificationDate" : 1586036079.7540879,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "infura.io"
     },
@@ -542,7 +475,6 @@
       "action" : "deny",
       "creationDate" : 1585955635.730298,
       "modificationDate" : 1585955635.730298,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "instagram.com"
     },
@@ -550,7 +482,6 @@
       "action" : "deny",
       "creationDate" : 1585956453.5960701,
       "modificationDate" : 1585956453.5960701,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "internet.org"
     },
@@ -558,7 +489,6 @@
       "action" : "deny",
       "creationDate" : 1586035004.8151689,
       "modificationDate" : 1586036079.75472,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "logbor.com"
     },
@@ -566,7 +496,6 @@
       "action" : "deny",
       "creationDate" : 1585956052.135051,
       "modificationDate" : 1585956052.135051,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "m.me"
     },
@@ -574,7 +503,6 @@
       "action" : "deny",
       "creationDate" : 1586035944.953047,
       "modificationDate" : 1586036079.7553611,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "media6degrees.com"
     },
@@ -582,7 +510,6 @@
       "action" : "deny",
       "creationDate" : 1585956037.7072849,
       "modificationDate" : 1585956037.7072849,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "messenger.com"
     },
@@ -590,7 +517,6 @@
       "action" : "deny",
       "creationDate" : 1585955791.7414279,
       "modificationDate" : 1585955791.7414279,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "online-metrix.net"
     },
@@ -598,7 +524,6 @@
       "action" : "deny",
       "creationDate" : 1586035609.1981239,
       "modificationDate" : 1586036079.7560129,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "openx.net"
     },
@@ -606,7 +531,6 @@
       "action" : "deny",
       "creationDate" : 1586035943.034055,
       "modificationDate" : 1586036079.7566509,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "owneriq.net"
     },
@@ -614,7 +538,6 @@
       "action" : "deny",
       "creationDate" : 1585956992.5492711,
       "modificationDate" : 1585956992.5492711,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "parse.com"
     },
@@ -622,7 +545,6 @@
       "action" : "deny",
       "creationDate" : 1586035297.8549519,
       "modificationDate" : 1586036079.757262,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "personalicanvas.com"
     },
@@ -630,7 +552,6 @@
       "action" : "deny",
       "creationDate" : 1586035827.4610739,
       "modificationDate" : 1586036079.7578659,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "pubmatic.com"
     },
@@ -638,7 +559,6 @@
       "action" : "deny",
       "creationDate" : 1586035863.209712,
       "modificationDate" : 1586036079.758466,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "rubiconproject.com"
     },
@@ -646,7 +566,6 @@
       "action" : "deny",
       "creationDate" : 1586035815.045665,
       "modificationDate" : 1586036079.759068,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "spotxchange.com"
     },
@@ -654,7 +573,6 @@
       "action" : "deny",
       "creationDate" : 1586035800.0391021,
       "modificationDate" : 1586036079.759675,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "stackadapt.com"
     },
@@ -662,7 +580,6 @@
       "action" : "deny",
       "creationDate" : 1586035408.607542,
       "modificationDate" : 1586036079.7603068,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "taboola.com"
     },
@@ -670,7 +587,6 @@
       "action" : "deny",
       "creationDate" : 1585955669.5484381,
       "modificationDate" : 1585955669.5484381,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "tfbnw.net"
     },
@@ -678,7 +594,6 @@
       "action" : "deny",
       "creationDate" : 1586035775.189384,
       "modificationDate" : 1586036079.7609091,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "tribalfusion.com"
     },
@@ -686,7 +601,6 @@
       "action" : "deny",
       "creationDate" : 1586035380.8290601,
       "modificationDate" : 1586036079.761517,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "tubemogul.com"
     },
@@ -694,7 +608,6 @@
       "action" : "deny",
       "creationDate" : 1585956380.0736451,
       "modificationDate" : 1585956380.0736451,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "wechat.com"
     },
@@ -702,7 +615,6 @@
       "action" : "deny",
       "creationDate" : 1585955705.822686,
       "modificationDate" : 1585955705.822686,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "whatsapp.com"
     },
@@ -710,7 +622,6 @@
       "action" : "deny",
       "creationDate" : 1585956510.8796659,
       "modificationDate" : 1585956510.8796659,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "whatsapp.net"
     },
@@ -718,7 +629,6 @@
       "action" : "deny",
       "creationDate" : 1586035993.376334,
       "modificationDate" : 1586036079.768949,
-      "owner" : "me",
       "process" : "any",
       "remote-domains" : "yotpo.com"
     }
